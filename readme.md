@@ -29,25 +29,32 @@ This project is an interactive leave application portal which includes Student l
 
 
 
-![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture1.png)
+![Flow Chart](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture1.png)
 
-![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture10.jpg)
+![Sign In](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture10.jpg)
 
-![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture2.png)
+<!-- ![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture2.png) -->
 
-![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture9.jpg)
+![Student Dashboard](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture9.jpg)
 
-![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture3.jpg)
+![Leave Application](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture8.jpg)
 
-![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture4.jpg)
+![Leave Status](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture7.jpg)
 
-![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture5.jpg)
+![Leave Records](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture6.jpg)
 
-![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture6.jpg)
+![Admin Dashboard](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture5.jpg)
 
-![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture7.jpg)
+![Admin Leave Application](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture4.jpg)
 
-![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture8.jpg)
+![Take Action](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture3.jpg)
+
+
+
+
+
+
+
 
 
 
