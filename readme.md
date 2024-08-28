@@ -27,13 +27,15 @@ This project is an interactive leave application portal which includes Student l
 
 ## Screenshot
 
-![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture9.jpg)
+
 
 ![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture1.png)
 
 ![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture10.jpg)
 
 ![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture2.png)
+
+![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture9.jpg)
 
 ![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture3.jpg)
 
