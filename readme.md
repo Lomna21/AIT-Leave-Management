@@ -1,6 +1,7 @@
-# Leave Management System
+# AIT Leave Management System
 
-This project is an interactive leave application portal which includes Student login,HOD login and Warden Login. Student can apply leaves and view their leave status. HOD can either accept or reject the leave for student studying in his/her department. Warden can either accept or reject the leave for student living in his/her hostel.
+The AIT Leave Management portal aims to transform the current leave management system at the Army Institute of Technology Pune. Students currently follow a tedius and paper-based process, causing resource wastage and inconvenienve. Our solution is an online portal that simplifies leave applications, tracking and communication. It streamlines the process, saving time and ensuring transparency for students and faculty members.
+
 
 ## Technology Stack Used :
 
@@ -31,10 +32,11 @@ This project is an interactive leave application portal which includes Student l
 ### Flow Diargram of project
 ![Flow Chart](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture1.png)
 
+![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture2.png)
+
 ### Sign In (Initial Opening Page)
 ![Sign In](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture10.jpg)
 
-<!-- ![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture2.png) -->
 
 ### Student Dashboard
 ![Student Dashboard](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture9.jpg)
