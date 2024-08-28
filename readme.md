@@ -27,15 +27,26 @@ This project is an interactive leave application portal which includes Student l
 
 ## Screenshot
 
-<!-- ![lms](https://user-images.githubusercontent.com/28656259/60335755-40b4c180-99bc-11e9-8738-3b40bb1b28c7.png)
-![student](https://user-images.githubusercontent.com/28656259/60340832-4d401680-99ca-11e9-9257-78e65fb3a4af.PNG)
-![lms2](https://user-images.githubusercontent.com/28656259/60340838-50d39d80-99ca-11e9-9c0f-b5cb9fc5172d.png)
 
-me Page](https://github.com/NaveenKumarK219/leave-management-system/blob/master/resources/screenshots/Screenshot_2018-11-12%20Home.png) -->
 
 ![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture1.png)
 
 ![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture10.jpg)
 
 ![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture2.png)
+
+![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture3.jpg)
+
+![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture4.jpg)
+
+![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture5.jpg)
+
+![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture6.jpg)
+
+![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture7.jpg)
+
+![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture8.jpg)
+
+![Home Page](https://github.com/Lomna21/AIT-Leave-Management/blob/master/Project%20Screenshots/Picture9.jpg)
+
 
